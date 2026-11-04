@@ -1,5 +1,7 @@
 # Olá, eu sou a Hadassa 👋
 
+🇺🇸 [English version](README.en.md)
+
 **Analista Administrativa e Financeira | Processos e Operações | Automação com IA, Google Apps Script e Bots**
 
 Mapeio processos, defino regras e construo automações com Google Apps Script, Python e IA — e mantenho tudo em produção, sem equipe interna de TI. Hoje são **mais de 10 automações em produção**, incluindo lançamento de despesas e fechamento de caixa por um bot no Telegram.
@@ -16,7 +18,6 @@ Mapeio processos, defino regras e construo automações com Google Apps Script, 
 | [contracts-generator-gas](https://github.com/hadassalopes/contracts-generator-gas) | Contratos copiados um a um → geração a partir da planilha |
 | [crm-data-cleaner](https://github.com/hadassalopes/crm-data-cleaner) | Datas e telefones bagunçados → padronização com prévia e backup |
 | [whatsapp-group-moderator](https://github.com/hadassalopes/whatsapp-group-moderator) | Regras de grupos difíceis de fiscalizar → bot que alerta a moderação |
-| [property-tax-monitor](https://github.com/hadassalopes/property-tax-monitor) | Conferência manual de IPTU → monitor somente leitura |
 
 > Todos os repositórios usam dados fictícios.
 
